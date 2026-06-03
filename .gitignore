@@ -8,7 +8,7 @@ screenshots/
 
 # Не коммитим скачанные моды, если они не managed через packwiz
 *.jar
-!manual mods/*.jar
+!manual_mods/*.jar
 
 # OS/editor мусор
 .DS_Store
