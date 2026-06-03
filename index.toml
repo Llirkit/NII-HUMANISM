@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "manual mods/CBCscope+laser-1.0.0.jar"
+hash = "b0c9b8e97ced86c2c04ebc219bbc9fe92dcbf9d3ffab179cc585d2f4e40e1302"
+
+[[files]]
+file = "manual mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
+hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -122,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-scope-and-laser-cannon-aiming-laser-cannon.pw.toml"
-hash = "5eadb82d872070a59807e182795dd6d82827417d78bf630f65d44ce0da5c617e"
+hash = "32db8c46ba206eb4df9c0d211dd52acebb53cf7df8fac8c0cb809b07bc83d6ec"
 metafile = true
 
 [[files]]
@@ -297,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/disable-minecolonies-abandoned-structures.pw.toml"
-hash = "eadc5c523a94b82ee8cbb6bd136975a5a3a41acab6f8f12bc7e2a237732f3379"
+hash = "99cdb97ef5692959342360a0e31b162b769ccb43ba734fbbc5da5558ed136aad"
 metafile = true
 
 [[files]]
