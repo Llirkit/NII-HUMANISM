@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "d05b4c96047740973ae04cefaca040ef3bc2f29c6689285be674b84d5dbff3dc"
+hash = "de72c43ede23c75ec2c9242add0f3d196dda4d07e31fd02d81a7ac14cc0a140a"
 metafile = true
 
 [[files]]
@@ -546,6 +546,11 @@ hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
 file = "mods/primal-magick.pw.toml"
 hash = "69f24286f25e7fe5041e17ae45b01c59e79b1e551da6c8db8e5adf95bb1713cf"
 metafile = true
@@ -577,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-drills.pw.toml"
-hash = "23f5c8653aee7769355958658e786711515b1318f314aa1524f9cd766f556a99"
+hash = "9006c1ac9f0080f360fcd3623033c7a6607ea390f951642415142913765bd905"
 metafile = true
 
 [[files]]
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
-hash = "ca4a05d8abf9aa285133e9e33725cee187eaa3f5a9998b52f6c9b0e40ad7b5db"
+hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
 metafile = true
 
 [[files]]
