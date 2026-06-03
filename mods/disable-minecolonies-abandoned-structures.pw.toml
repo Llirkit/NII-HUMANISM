@@ -1,0 +1,8 @@
+name = "disable-minecolonies-abandoned-structures"
+filename = "disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Llirkit/NII-HUMANISM/blob/main/manual_mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
+hash-format = "sha256"
+hash = "575e39bb2d6c7b1184e6ee7c5e261979131addb6089337afdccec021fa1fa203"

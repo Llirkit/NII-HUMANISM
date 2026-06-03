@@ -1,0 +1,8 @@
+name = "cbc-scope-and-laser-cannon-aiming-laser-cannon"
+filename = "CBCscope+laser-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Llirkit/NII-HUMANISM/blob/main/manual_mods/CBCscope%2Blaser-1.0.0.jar"
+hash-format = "sha256"
+hash = "8e3f212c150f08bb677e62d758d58de6693d5d52e435348ed7d73dbe50756125"

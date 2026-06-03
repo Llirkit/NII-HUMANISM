@@ -1,11 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "manual mods/CBCscope+laser-1.0.0.jar"
+file = "manual_mods/CBCscope+laser-1.0.0.jar"
 hash = "b0c9b8e97ced86c2c04ebc219bbc9fe92dcbf9d3ffab179cc585d2f4e40e1302"
 
 [[files]]
-file = "manual mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
+file = "manual_mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
 hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
 
 [[files]]
@@ -126,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/cbc-neo-warfare.pw.toml"
 hash = "5c7b17dd5ce92c0e9f2915d8ec6692385db832000b078ac2fbacd012db425a6a"
+metafile = true
+
+[[files]]
+file = "mods/cbc-scope-and-laser-cannon-aiming-laser-cannon.pw.toml"
+hash = "b0401f261cc2cde4542ad3b079ba5b033ad5c2ff2bb8cbd949e374813911f9db"
 metafile = true
 
 [[files]]
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/disable-minecolonies-abandoned-structures.pw.toml"
+hash = "7c7efa3161eca5e8d04184b516302ea675b297c3fad4ca40f7f652d88a6e907e"
 metafile = true
 
 [[files]]
