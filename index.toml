@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "manual_mods/CBCscope+laser-1.0.0.jar"
-hash = "b0c9b8e97ced86c2c04ebc219bbc9fe92dcbf9d3ffab179cc585d2f4e40e1302"
-
-[[files]]
-file = "manual_mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
-hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
