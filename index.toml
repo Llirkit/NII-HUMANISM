@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-scope-and-laser-cannon-aiming-laser-cannon.pw.toml"
-hash = "b0401f261cc2cde4542ad3b079ba5b033ad5c2ff2bb8cbd949e374813911f9db"
+hash = "c0a29732652cdc23336fd801ecbcac8d1ef861fa560c7ab214a8c40fd0ad0dd9"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/disable-minecolonies-abandoned-structures.pw.toml"
-hash = "7c7efa3161eca5e8d04184b516302ea675b297c3fad4ca40f7f652d88a6e907e"
+hash = "d4bf28258fffd5cf58b1d09c8f4b8caf34144b9441dc9e9f6cb1bdeb8663960b"
 metafile = true
 
 [[files]]
