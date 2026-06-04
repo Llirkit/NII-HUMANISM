@@ -1,0 +1,13 @@
+name = "Sable Entity Damage"
+filename = "sableentitydamage-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d9723fc59a74710d09bd82478780adf259b273a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8090523
+project-id = 1543482
