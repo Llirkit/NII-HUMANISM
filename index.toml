@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "eae74034be003c52c955e62c727a95ab5302ab8ed5ca12d6a846f800ae2c93f0"
+hash = "c782b412ac32bd19e8dc6731f5935cd33bcd5cacc7d08b741b2db7b998f538a9"
 metafile = true
 
 [[files]]
