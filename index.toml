@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomeinfo.pw.toml"
-hash = "9735924e3d75411b8c1813416c6e615f88e15cf74e9477e458fc76d620cdbe24"
+hash = "d23af7d3923441d91bd8b7549e6ff940330209210809a0012456b644d98a216f"
 metafile = true
 
 [[files]]
