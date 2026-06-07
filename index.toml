@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-redstone.pw.toml"
-hash = "819fe7caf5532ad31f3f20bd763e753c86341497be579f79fb1eb5908eaab748"
+hash = "a4189bcd88ad395224a99521aff0573669270e2ea54087536a2a6f4ec942ed7f"
 metafile = true
 
 [[files]]
