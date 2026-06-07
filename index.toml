@@ -26,6 +26,11 @@ hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
+file = "mods/aeronautic-additions-and-chunkloader.pw.toml"
+hash = "c70c7d8f795575792013ece30d55b93a8ef8d3181eef212cbd22f022c82209a5"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-camera-sync.pw.toml"
 hash = "640709c1ee4ad361575eef800d879e8cc7a6d8e8cfdfd6d447674a22dd9b809e"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "7904c140247e0d8a87231cf4d36718fc018e0f851dbec2517b673acdc25547df"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
@@ -836,8 +846,18 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
+file = "mods/tiny-gates.pw.toml"
+hash = "196e8af17f5130efc3c62aa38315db3f5f4bb6bcfe9e55a5145a2f46960fc207"
+metafile = true
+
+[[files]]
 file = "mods/tiny-redstone.pw.toml"
 hash = "819fe7caf5532ad31f3f20bd763e753c86341497be579f79fb1eb5908eaab748"
+metafile = true
+
+[[files]]
+file = "mods/tinycreate.pw.toml"
+hash = "1bedc89f178a2984fb4fd6c804c7220084a8b68c41b449bf48ee607fe9ff1047"
 metafile = true
 
 [[files]]
