@@ -16,6 +16,16 @@ hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
 
 [[files]]
+file = "mods/ae2-mega-things.pw.toml"
+hash = "e71b202da5d182dd538f92cddd23ca3d1018af33034c3b0a2a24dbdecc147e3e"
+metafile = true
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-camera-sync.pw.toml"
 hash = "640709c1ee4ad361575eef800d879e8cc7a6d8e8cfdfd6d447674a22dd9b809e"
 metafile = true
@@ -496,6 +506,11 @@ hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
 
 [[files]]
+file = "mods/hots-aerostuff.pw.toml"
+hash = "59bfc302328124a6961ab7e0f9951a112da4ac4617826c0ad1d30e870bd8061a"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
@@ -593,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "1ea69b6af6b76fca203a514a5d191300454ea9d020aa585dbef2dae697eac66a"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
 
 [[files]]
