@@ -366,8 +366,8 @@ hash = "9ad47b3747d5aad0939d148ee9d7f26ee924d42f38e46d8038469fdfb8262c48"
 metafile = true
 
 [[files]]
-file = "mods/create-track.pw.toml"
-hash = "9f43d80abcb8eca0447c462570330b2cd5d4077d75ed0739ed531b95c9f51be9"
+file = "mods/create-tracks+.pw.toml"
+hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
 metafile = true
 
 [[files]]
@@ -738,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "ed816a4574588c1d994fd152c024bc888737c2d5b5bd5a1314705e97e8462d9a"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "775e608c6ffb746c27a60f4743f8e285f51939b1b46e5a1dafd9555646b89433"
 metafile = true
 
 [[files]]
