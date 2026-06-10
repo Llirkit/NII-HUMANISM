@@ -186,6 +186,11 @@ hash = "200c3786d475a4438b92360bb7a5106ef0746ba63f76099e0c51cdc830b659bf"
 metafile = true
 
 [[files]]
+file = "mods/cbc-fuze-sable-fix.pw.toml"
+hash = "bee6e80d369d3cbcd9926bdb9a4e45f6606d4de20b70cffda3e92656d0b270af"
+metafile = true
+
+[[files]]
 file = "mods/cbc-neo-warfare.pw.toml"
 hash = "5c7b17dd5ce92c0e9f2915d8ec6692385db832000b078ac2fbacd012db425a6a"
 metafile = true
