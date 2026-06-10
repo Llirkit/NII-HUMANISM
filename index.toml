@@ -949,3 +949,13 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mods-ru.pw.toml"
+hash = "00c1786f3bb0913cc79ec3c7d899ac64d41bbbb014023c194a494e3ea5208e1d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/truetoru-rus.pw.toml"
+hash = "0334ff87791205f76357d07a4cd36800b29efc39e6ca42e7842f2f06b6b4ccef"
+metafile = true

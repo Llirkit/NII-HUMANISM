@@ -1,0 +1,13 @@
+name = "Русская локализация для модов (Mods Russian Localization)"
+filename = "Rus-For-Mods-1.21-1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GsoCvyCO/versions/hQjgTGgA/Rus-For-Mods-1.21-1.1.zip"
+hash-format = "sha512"
+hash = "c3995d4d4b6e225e995af040304c2aa09d7daf9da36efb99610e6a90686bfbd9fb25d43fce9895322df98d58c0b19528475bd9ad36835bfc1b79554ae2e79bc5"
+
+[update]
+[update.modrinth]
+mod-id = "GsoCvyCO"
+version = "hQjgTGgA"

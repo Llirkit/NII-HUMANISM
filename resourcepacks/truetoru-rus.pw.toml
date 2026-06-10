@@ -1,0 +1,13 @@
+name = "TrueToRu - Русификатор"
+filename = "§f§lTrue§b§lTo§c§lRu §e- Русификатор§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DNqL8HUi/versions/MCwuTTwP/%C2%A7f%C2%A7lTrue%C2%A7b%C2%A7lTo%C2%A7c%C2%A7lRu%20%C2%A7e-%20%D0%A0%D1%83%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%C2%A70.zip"
+hash-format = "sha512"
+hash = "0bdfe0da722b2cb9fca612ca56f47b7e9ced18f11af0856364b3725716d7836cd04b7f96a3f028230e5e82eea8a8930699aa175c366374e6f9ec14464be4a87f"
+
+[update]
+[update.modrinth]
+mod-id = "DNqL8HUi"
+version = "MCwuTTwP"
