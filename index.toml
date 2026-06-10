@@ -631,11 +631,6 @@ hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
 metafile = true
 
 [[files]]
-file = "mods/mahou-tsukai.pw.toml"
-hash = "7e895eb4bdfd4ecca31bf4f630a7c375f4c6658aa1bd263516db212cca114fcb"
-metafile = true
-
-[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "1ea69b6af6b76fca203a514a5d191300454ea9d020aa585dbef2dae697eac66a"
 metafile = true
