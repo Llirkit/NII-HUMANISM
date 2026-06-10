@@ -186,11 +186,6 @@ hash = "200c3786d475a4438b92360bb7a5106ef0746ba63f76099e0c51cdc830b659bf"
 metafile = true
 
 [[files]]
-file = "mods/cbc-fuze-sable-fix.pw.toml"
-hash = "bee6e80d369d3cbcd9926bdb9a4e45f6606d4de20b70cffda3e92656d0b270af"
-metafile = true
-
-[[files]]
 file = "mods/cbc-neo-warfare.pw.toml"
 hash = "5c7b17dd5ce92c0e9f2915d8ec6692385db832000b078ac2fbacd012db425a6a"
 metafile = true
@@ -628,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "9b4da9032ff58228faa07d6c68072d0873ac2a321aa374c5578bd6813c95e052"
 metafile = true
 
 [[files]]
