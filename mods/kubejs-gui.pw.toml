@@ -1,0 +1,13 @@
+name = "KubeJS GUI"
+filename = "KubeJSGUI 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "618cc8d6b84c8ffb00cee443b303ccf07821328c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7752730
+project-id = 1383507
