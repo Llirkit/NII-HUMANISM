@@ -306,6 +306,11 @@ hash = "404a6f944d9c057e8ea2fd1497298cc9e552191135ee07a8e009058b2707a719"
 metafile = true
 
 [[files]]
+file = "mods/create-compact-flap.pw.toml"
+hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
 metafile = true
