@@ -381,6 +381,16 @@ hash = "a9dad68061b69b23ba00cd93d31dc8b5622f1426b4e684aaf6022e1bd492ae56"
 metafile = true
 
 [[files]]
+file = "mods/create-numismatics-create-6-0-integration.pw.toml"
+hash = "37cedf9219acc2d5b20edfea3595d6a066ebbf0c70189f8c2821b561d3acfc12"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatics-starter-pack.pw.toml"
+hash = "046d04c6c3f9bb18609678521ee4a5e46b46ce93ebdeb7a7479cb9ae6a9b0cb9"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
@@ -733,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "2d81754ee082f04f4b2d7c619a63092bc37869dcec493c75337ee35d4c72cd41"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
 
 [[files]]
