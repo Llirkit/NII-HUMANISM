@@ -771,11 +771,6 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
-file = "mods/pathfinding-edition-for-minecolonies.pw.toml"
-hash = "cdbb87fe4ef6a85aac622687f9e77d97e8e816035e5dbbf87a403f3ca225a853"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
